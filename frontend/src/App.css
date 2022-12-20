@@ -1,0 +1,13 @@
+* {
+  font-family: 'Urbanist', sans-serif;
+}
+
+.site-header-text {
+  padding: 40px;
+  color: rgb(15, 71, 124);
+  font-size: 50px;
+}
+
+.domains-table {
+  color: #0f477c;
+}
